@@ -1,5 +1,3 @@
-# Vitest Demo
+# Mobx/Valtio analysis
 
-Run `npm test` and change a test or source code to see HMR in action!
-
-Learn more at https://vitest.dev
+This repository contains test that intendet to demonstrate similarities and distinctions of MobX and Valtio.
